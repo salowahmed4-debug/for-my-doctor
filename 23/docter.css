@@ -113,13 +113,14 @@ a {
 
 footer {
     background-color: #f79cb0;
-    height: 102px;
+    height: 140px;
     text-align: center;
+    margin-top: 180px;
 }
 
 footer h3 {
     position: absolute;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 80px;
     text-align: center;
 }
@@ -130,7 +131,7 @@ a img {
 }
 
 button {
-    margin-top: 40px;
+    margin-top: 50px;
     text-align: center;
     font-size: 14px;
     font-weight: 800;
