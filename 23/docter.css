@@ -113,14 +113,14 @@ a {
 
 .footer {
     background-color: #f79cb0;
-    height: 180px;
+    height: 200px;
     text-align: center;
     margin-top: 170px;
 }
 
 .footer h3 {
     position: absolute;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 80px;
     text-align: center;
 }
@@ -131,7 +131,7 @@ a img {
 }
 
 button {
-    margin-top: 50px;
+    margin-top: 80px;
     text-align: center;
     font-size: 14px;
     font-weight: 800;
