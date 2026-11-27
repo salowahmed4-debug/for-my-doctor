@@ -7,9 +7,7 @@ body {
 .contener {
     width: 100%;
     max-width: 430px;
-    /* min-height: 100vh; */
     min-height: auto;
-    background-color: rgb(252, 218, 218);
     margin: auto;
     padding: 0;
     background-color: #f9c9d1;
