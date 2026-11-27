@@ -112,7 +112,7 @@ a {
 }
 
 .footer {
-    background-color: #f79cb0;
+    background-color: #f9c9d1;
     height: 200px;
     text-align: center;
     margin-top: 170px;
@@ -120,7 +120,7 @@ a {
 
 .footer h3 {
     position: absolute;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: 80px;
     text-align: center;
 }
@@ -131,7 +131,7 @@ a img {
 }
 
 button {
-    margin-top: 80px;
+    margin-top: 50px;
     text-align: center;
     font-size: 14px;
     font-weight: 800;
@@ -147,4 +147,9 @@ button {
 button:hover {
     width: 185px;
     height: 55px;
+}
+
+.sgi {
+    text-align: center;
+    margin-top: 30px;
 }
