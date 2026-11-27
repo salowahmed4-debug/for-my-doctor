@@ -1,0 +1,148 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.contener {
+    width: 100%;
+    max-width: 430px;
+    min-height: 100vh;
+    background-color: rgb(252, 218, 218);
+    margin: auto;
+    padding: 0;
+    background-color: #f9c9d1;
+}
+
+header {
+    background-color: #f79cb0;
+    padding: 20px 10px;
+    display: flex;
+    gap: 30px;
+}
+
+span {
+    color: #d93a5e;
+}
+
+.logo {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.conten {
+    width: 80%;
+    background-color: #f9c9d1;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.pro {
+    width: 120px;
+    border-radius: 50px;
+}
+
+.profil {
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(217, 58, 94, 0.25);
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 10px 0;
+}
+
+.profil p {
+    font-size: 14px;
+    color: #d93a5e;
+}
+
+.gift img {
+    width: 30px;
+    color: #d93a5e;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -233px;
+}
+
+.gift p {
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -195px;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    padding-left: 50px;
+}
+
+.row div {
+    background-color: #d93a5e;
+    color: white;
+    width: 80px;
+    font-size: 14px;
+    padding: 20px 10px;
+    border: 1px solid #f79cb0;
+    border-radius: 20px;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.row div img {
+    width: 20px;
+}
+
+.row div:hover {
+    background-color: green;
+}
+
+footer {
+    background-color: #f79cb0;
+    height: 102px;
+    text-align: center;
+}
+
+footer h3 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 80px;
+    text-align: center;
+}
+
+a img {
+    width: 25px;
+    text-align: center;
+}
+
+button {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 800;
+    height: 50px;
+    width: 180px;
+    background-color: rgb(37, 243, 37);
+    color: white;
+    border-style: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    width: 185px;
+    height: 55px;
+}
